@@ -4,7 +4,7 @@ Welcome to the E-Commerce Product Listing project! This project showcases a mode
 
 ## Live Demo
 
-Check out the live demo of the project here: [Live Demo](https://your-deployed-link.com)
+Check out the live demo of the project here: [Live Demo]([https://shopping-cart-nu-hazel.vercel.app/])
 
 ## Screenshots
 

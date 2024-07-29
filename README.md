@@ -1,24 +1,27 @@
 # E-Commerce Product Listing
 
-Welcome to the E-Commerce Product Listing project! This project showcases a modern web application for browsing and managing products, complete with features such as search, category filtering, and shopping cart functionality.
+ - Welcome to the E-Commerce Product Listing project! 
+ - This project showcases a modern web application for browsing and managing products, complete with features such as search, category filtering, and shopping cart functionality.
 
 ## Live Demo
 
-Check out the live demo of the project here: [Live Demo]([https://shopping-cart-nu-hazel.vercel.app/])
+Check out the live demo of the project here: [Live Demo](https://shopping-cart-nu-hazel.vercel.app/)
 
 ## Screenshots
 
 ### Home Page
+![image](https://github.com/user-attachments/assets/268704ee-9d56-4768-bc6e-3796d96d146c)
 
-![Home Page](https://your-image-hosting-link.com/home-page-screenshot.png)
+### Cart Page
+![image](https://github.com/user-attachments/assets/8f8e090b-afda-4829-937b-15fb931763c5)
+![image](https://github.com/user-attachments/assets/ad6a9450-e0d2-48d2-a6e7-76f21d3c6768)
 
-### Product Details
+### Checkout Page
+![image](https://github.com/user-attachments/assets/1c1e2d07-2d33-427c-8e90-2d7bc5af3ef3)
 
-![Product Details](https://your-image-hosting-link.com/product-details-screenshot.png)
+### Not Found Page
+![image](https://github.com/user-attachments/assets/a57b6f9c-ab98-470e-9dd1-1db2f38cf251)
 
-### Empty Cart
-
-![Empty Cart](https://your-image-hosting-link.com/empty-cart-screenshot.png)
 
 ## Features
 
@@ -43,13 +46,13 @@ Check out the live demo of the project here: [Live Demo]([https://shopping-cart-
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/nerdy-nakul/shopping-cart.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your-repo-name
+    cd shopping-cart
     ```
 
 3. **Install the dependencies:**

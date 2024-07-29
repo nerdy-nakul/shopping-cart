@@ -75,7 +75,7 @@ const Checkout = () => {
                 Card Number
               </label>
               <input
-                type="text"
+                type="number"
                 id="cardNumber"
                 name="cardNumber"
                 value={paymentDetails.cardNumber}
